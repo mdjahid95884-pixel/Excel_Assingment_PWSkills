@@ -1,2 +1,2 @@
-# Excel_Assingment_PWSkills
-Excel_Assingment_PWSkills
+# Excel_Assignment_PWSkills
+Excel_Assignment_PWSkills
